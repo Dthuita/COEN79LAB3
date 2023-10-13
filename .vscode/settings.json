@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "cstdlib": "cpp",
+    "initializer_list": "cpp",
+    "type_traits": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "atomic": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "vector": "cpp",
+    "xmemory": "cpp",
+    "xtr1common": "cpp"
+  }
+}
